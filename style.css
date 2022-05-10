@@ -1,0 +1,18 @@
+h1 {
+    font-size: 50px;
+    font-family: Georgia;
+    margin-bottom: 30px;
+    color: rgb(95, 21, 44);
+ }
+ #div1 {
+     color: red;
+ }
+ .class1 {
+     color:blue
+ }
+ a[target] {
+     color:crimson
+ }
+ h1:hover {
+     color:darkgreen
+ }
